@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class cin_zodyak {
 
     public static void main(String[] args) {
